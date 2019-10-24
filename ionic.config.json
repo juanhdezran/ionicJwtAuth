@@ -1,5 +1,7 @@
 {
   "name": "ionicJwtAuth",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
